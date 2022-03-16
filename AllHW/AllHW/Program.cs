@@ -1,3 +1,3 @@
 ﻿using AllHW;
-string a = HW1.DeriveTheEquationOfAStraightLinePassingThroughTwoPoints(1, 2, 3, 4);
+int a = HW3.FindTheLargestDivisor(100);
 Console.WriteLine(a);
