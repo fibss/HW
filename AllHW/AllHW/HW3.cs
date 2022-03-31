@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace AllHW
 {
-    static class HW3
+    public static class HW3
     {
         public static double RaiseANumberToAPower(double a, double b)
         {

@@ -1,6 +1,6 @@
 ﻿namespace AllHW
 {
-    static class HW2
+    public static class HW2
     {
         public static int CompareAndCount(int a, int b)
         {

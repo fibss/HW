@@ -1,10 +1,10 @@
 ﻿namespace AllHW
 {
-    static class HW1
+    public static class HW1
     {
-        public static void FindResultofDivision(int dividend, int divider, out int resultOfDivision, out int remainderOfTheDivision)
+        public static void FindResultOfDivision(int dividend, int divider, out int resultOfDivision, out int remainderOfTheDivision)
         {
-            if (b == 0)
+            if (divider == 0)
             {
                 throw new Exception("b must be > 0");
             }
